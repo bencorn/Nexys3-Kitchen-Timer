@@ -1,0 +1,42 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "an[3]" LOC = P17;
+NET "an[2]" LOC = P18;
+NET "an[1]" LOC = N15;
+NET "an[0]" LOC = N16;
+
+NET "seg[5]" LOC = N14;
+NET "seg[4]" LOC = M14;
+NET "seg[2]" LOC = U17;
+NET "seg[1]" LOC = T18;
+NET "seg[0]" LOC = T17;
+NET "seg[3]" LOC = U18;
+NET "seg[6]" LOC = L14;
+
+NET "time_in[5]" LOC = T5;
+NET "time_in[4]" LOC = V8;
+NET "time_in[3]" LOC = U8;
+NET "time_in[2]" LOC = N8;
+NET "time_in[0]" LOC = V9;
+NET "time_in[1]" LOC = M8;
+NET "clk" LOC = V10;
+NET "dp" LOC = M13;
+NET "led" LOC = U16;
+NET "sec_button" LOC = D9;
+NET "rst" LOC = A8;
+NET "pause" LOC = C9;
+NET "speed_switch" LOC = T9;
+NET "start" LOC = B8;
+NET "vsync" LOC = P7;
+NET "enable" LOC = T10;
+NET "min_button" LOC = C4;
+NET "hsync" LOC = N6;
+NET "red[2]" LOC = U7;
+NET "red[1]" LOC = V7;
+NET "red[0]" LOC = N7;
+NET "green[2]" LOC = V6;
+NET "green[1]" LOC = T6;
+NET "blue[0]" LOC = R7;
+NET "green[0]" LOC = P8;
+NET "blue[1]" LOC = T7;
